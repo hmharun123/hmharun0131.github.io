@@ -93,3 +93,8 @@
   <p>Subscribe to my channel for tutorials, tips, and more!</p>
   <a class="button" href="https://youtube.com/@mdharun-n6j" target="_blank">Visit My YouTube</a>
 </div>
+<div class="buttons">
+  <a class="button" href="https://wa.me/8801648131500?text=Hi,%20I%20want%20to%20contact%20you" target="_blank">
+    Contact Me on WhatsApp
+  </a>
+</div>
