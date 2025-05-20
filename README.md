@@ -144,3 +144,9 @@
 </body>
 </html>
 <a href="https://www.tiktok.com/@user6071584366187" class="btn pink" target="_blank">TikTok</a>
+.btn.pink {
+  background-color: #ff69b4;
+}
+.btn.pink:hover {
+  background-color: #ff1493;
+}
